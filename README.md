@@ -1,2 +1,1 @@
-Odin Recipes
-This project is about working on my workflow with Git and practising my newly found HTML skills.
+This project is known as Project:Recipes. The main aim is to practice my workflow on Git and HTML by building a basic recipe website.
