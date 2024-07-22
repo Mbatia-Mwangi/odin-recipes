@@ -1,1 +1,2 @@
-This project is known as Project:Recipes. The main aim is to practice my workflow on Git and HTML by building a basic recipe website.
+# Project Recipes
+The main aim of this project is to practice my workflow on Git and HTML by building a basic recipe website.
